@@ -9,6 +9,6 @@ Hello Java
  <center> <h1> Testing CICD Pipeline1 </h1> </center>
  <center> <h1> Testing CICD Pipeline2 </h1> </center>
  <center> <h1> Testing CICD Pipeline3 </h1> </center>
- <center> <h1> creating new version </h1> </center>
+ <center> <h1> creating new version4 </h1> </center>
 </body>
 </html>
